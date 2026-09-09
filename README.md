@@ -38,4 +38,3 @@ I'm *Mangaiyarkarasi*,
 ### ⚡ My GitHub Activity
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mangaiyarkarasi-27)
 
-
