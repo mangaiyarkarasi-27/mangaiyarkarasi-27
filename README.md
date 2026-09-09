@@ -6,7 +6,7 @@ I'm *Mangaiyarkarasi*,
 ###  My Hogwarts Journey
 - *House:* Software Development <br>
 - *Currently learning:* Java & Business Analysis <br>
-- *My spells:* Java • Python • JavaScript • React • SQL • Git <br>
+- *My spells:* Java • SQL • Git • Excel • Jira <br>
 - *My projects:* Turning ideas into real, working applications
 
 
