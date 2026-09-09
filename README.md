@@ -13,8 +13,7 @@ I'm *Mangaiyarkarasi*,
 * Fun fact: Still waiting for my Hogwarts letter 🦉
 
 ### I Code in
-https://icons8.com/icon/13679/java
-### 📬 Owl Post 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>### 📬 Owl Post 
 <a href="https://github.com/mangaiyarkarasi-27">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
