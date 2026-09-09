@@ -3,9 +3,9 @@
 I'm *Mangaiyarkarasi*,
 
 ### 🪄 My Hogwarts Journey
-🧙 *House:* Software Development
-📚 *Currently learning: * Java & Business Analysis
-⚡ *My spells:* Java • Python • JavaScript • React • SQL • Git
+🧙 *House:* Software Development <br>
+📚 *Currently learning:* Java & Business Analysis <br>
+⚡ *My spells:* Java • Python • JavaScript • React • SQL • Git <br>
 🏰 *My projects:* Turning ideas into real, working applications
 
 
