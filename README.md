@@ -16,6 +16,8 @@ I'm *Mangaiyarkarasi*,
 
 ### I Code in
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> <br>
+<br>
+<br>
 
 
 ### 📬 Owl Post 
@@ -25,7 +27,9 @@ I'm *Mangaiyarkarasi*,
 <a href="mailto:mangaiyarkarasi8944@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
+<br>
+<br>
+<br>
 
 ### 🦉 Hogwarts Visitors
 
