@@ -17,7 +17,6 @@ I'm *Mangaiyarkarasi*,
 ### I Code in
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> <br>
 <br>
-<br>
 
 
 ### 📬 Owl Post 
@@ -29,10 +28,14 @@ I'm *Mangaiyarkarasi*,
 </a>
 <br>
 <br>
-<br>
 
 ### 🦉 Hogwarts Visitors
 
 <img src="https://komarev.com/ghpvc/?username=mangaiyarkarasi-27&color=blue&style=for-the-badge&label=Profile+Views" />
+
+<br>
+<br>
+### ⚡ My GitHub Activity
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mangaiyarkarasi-27)
 
 
