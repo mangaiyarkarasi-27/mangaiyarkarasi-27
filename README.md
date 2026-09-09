@@ -21,3 +21,8 @@ I'm *Mangaiyarkarasi*,
 <a href="mailto:mangaiyarkarasi8944@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
+
+### 🦉 Hogwarts Visitors
+
+<img src="https://komarev.com/ghpvc/?username=mangaiyarkarasi-27&color=blue&style=for-the-badge&label=Profile+Views" />
