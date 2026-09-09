@@ -18,6 +18,10 @@ I'm *Mangaiyarkarasi*,
 ### I Code in
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/> <br>
 <br>
+### I'm Familiar with
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="40"/>
+<img src="https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white" height="40"/><br>
+<br>
 
 
 ### 📬 Owl Post 
