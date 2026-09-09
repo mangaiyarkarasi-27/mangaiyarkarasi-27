@@ -1,16 +1,18 @@
-## Hi there 👋
+# ⚡ Hey there!
 
-<!--
-**mangaiyarkarasi-27/mangaiyarkarasi-27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm *Mangaiyarkarasi*,
 
-Here are some ideas to get you started:
+### 🪄 My Hogwarts Journey
+🧙 *House:* Software Development
+📚 *Currently learning: * Java & Business Analysis
+⚡ *My spells:* Java • Python • JavaScript • React • SQL • Git
+🏰 *My projects:* Turning ideas into real, working applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🦉 A Bit About Me
+* Ready to learn a new spell ✨
+* Fun fact: Still waiting for my Hogwarts letter 🦉
+
+
+### 📬 Owl Post
+https://github.com/mangaiyarkarasi-27 • mangaiyarkarasi8944@gmail.com
